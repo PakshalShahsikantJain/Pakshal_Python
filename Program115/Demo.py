@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Check Whether Entered Character is Alphabet or Not
+# Date : 31/02/2021 
+#
+######################################################################################
+
 class Alphabet :
     def __init__(self) :
         self.ch = " "
