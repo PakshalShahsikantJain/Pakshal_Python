@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Sum of Digits of Entered Numbers(Two or More Digit Number) Entered in a List 
+# Date : 31/02/2021 
+#
+######################################################################################
+
 class LIST :
     def __init__(self,no = 10) :
         self.size = no 
