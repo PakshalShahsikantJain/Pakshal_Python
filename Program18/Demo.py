@@ -1,3 +1,10 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Factors of Entered Number in Reverse Order
+# Date : 30/02/2021 
+#
+######################################################################################
 from Factors import *
 
 def main() :
