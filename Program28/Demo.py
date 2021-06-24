@@ -1,3 +1,12 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Check Whether Enterd Number Contains Zero or Not in it 
+# Example : Input : 4026 Output : True 
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Digits import * 
 
 def main() :
