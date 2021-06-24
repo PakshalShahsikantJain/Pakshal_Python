@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Factorial of Entered Number 
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Fact import * 
 
 def main() :
