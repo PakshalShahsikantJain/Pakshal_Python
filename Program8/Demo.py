@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Stars Number of times Enters By User
+# Date : 25/02/2021 
+#
+######################################################################################
+
 print("Jay Ganesh.......")
 
 print("Enter Number To Print Stars")
