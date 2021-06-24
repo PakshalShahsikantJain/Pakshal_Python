@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display * Number of Times Entered By User
+# Date : 29/02/2021 
+#
+######################################################################################
+
 print("Jay Ganesh........")
 
 print("Enter Number")
