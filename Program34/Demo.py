@@ -1,3 +1,12 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Count of Digits Between Entered Range From Entered Number 
+# Example : Input = 40262 Output = Frequecy(Count) of Digits Between Entered Range is : 2  
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Digits import *
 
 def main() :
