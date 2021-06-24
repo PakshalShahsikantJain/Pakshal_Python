@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Only Numbers Till Entered Number 
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Display import *
 
 def main() :
