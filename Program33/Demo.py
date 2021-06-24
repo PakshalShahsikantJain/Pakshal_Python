@@ -1,3 +1,12 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Count of Odd Digits From Entered Number 
+# Example : Input = 45326 Output = Frequecy(Count) of Odd Digits is : 2  
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Digits import *
 
 def main() :
