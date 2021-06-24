@@ -1,4 +1,13 @@
+#############################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Remove Percentage of Entered Total Marks(Percentage Can Be in Decimal) 
+# Date : 30/02/2021 
+#
+##############################################################################################
+
 from Division import *
+
 def main() :
     print("Jay Ganesh.......")
 
