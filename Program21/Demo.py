@@ -1,3 +1,11 @@
+################################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Difference Between Summation of Factors and Non-Factors of A Given Number
+# Date : 30/02/2021 
+#
+#################################################################################################
+
 from Factors import * 
 
 def main() :
