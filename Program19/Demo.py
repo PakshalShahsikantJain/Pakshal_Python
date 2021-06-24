@@ -1,3 +1,10 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Non-Factors of A Given Number
+# Date : 30/02/2021 
+#
+######################################################################################
 from Factors import *
 
 def main() :
