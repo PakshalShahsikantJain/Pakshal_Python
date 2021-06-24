@@ -1,3 +1,10 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Check Whether Entered Number is Divisible By 5 or Not
+# Date : 23/02/2021 
+#
+######################################################################################
 print("Jay Ganesh.......")
 
 print("Enter Number")
