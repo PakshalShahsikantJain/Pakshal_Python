@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Difference Between Max and Min Number Enterend in List 
+# Date : 30/02/2021 
+#
+######################################################################################
+
 class LIST :
     def __init__(self,no = 10) :
         self.size = no
