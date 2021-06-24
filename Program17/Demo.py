@@ -1,3 +1,10 @@
+#################################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Remove Factor of Entered Number and Return Mulipliacation of That Factors
+# Date : 30/02/2021 
+#
+#################################################################################################
 from Factors import *
 
 def main() :
