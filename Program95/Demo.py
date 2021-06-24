@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Difference Between Even and ODD Elements Entered In List 
+# Date : 3/03/2021 
+#
+######################################################################################
+
 class LIST :
     def __init__(self,no = 10) :
         self.size = no
