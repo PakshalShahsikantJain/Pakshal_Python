@@ -1,3 +1,11 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Only Three Digit Number From Entered List
+# Date : 30/02/2021 
+#
+######################################################################################
+
 class LIST :
     def __init__(self,no = 10) :
         self.size = no 
