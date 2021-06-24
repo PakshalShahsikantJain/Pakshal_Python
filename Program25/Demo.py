@@ -1,3 +1,12 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Display Multiplication of Three Entered Number(Zero Should Be Depricated if There) 
+# Example : Input = 12 * 0 * 2       Output = 24
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Multiplication import *
 
 def main() :
