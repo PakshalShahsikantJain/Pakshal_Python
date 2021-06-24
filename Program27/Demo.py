@@ -1,3 +1,12 @@
+#####################################################################################
+#
+# Author : Pakshal Shahsikant Jain
+# Problem_Statement : Print Digits of Entered Number
+# Example : Input = 4926 Output : 4, 9, 2, 6 
+# Date : 30/02/2021 
+#
+######################################################################################
+
 from Digits import * 
 
 def main() :
